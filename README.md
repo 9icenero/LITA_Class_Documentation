@@ -12,3 +12,9 @@
 - SQL - Structured Query Language for Quering of Data
 
 - GitHub for Potfolio
+
+Data Analysis
+```SQL
+SELECT * FROM EMPLOYEE
+WHERE FIRSTNAME IN ('SANNI', 'DEBORAH', 'MERCY')
+```
