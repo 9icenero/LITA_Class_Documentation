@@ -4,9 +4,11 @@
 ### Project Title: E commerce Sales Analysis
 
 ## Tools Used
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.Microsoft.com)
   1. For data cleaning
   2. For Analysis
   3. For Visualization.
+     
 - SQL - Structured Query Language for Quering of Data
+
 - GitHub for Potfolio
