@@ -28,6 +28,9 @@ Select min(Profit) as min_Profit  from [dbo].[International Breweries]
 Where Years = '2018';
 ```
 
-#Data Visualization
+##Data Visualization
 
 ![image](https://github.com/user-attachments/assets/51ac2700-21e7-4cc4-93a7-517c59539d18)
+
+##Company Products
+![image](https://github.com/user-attachments/assets/3990faa4-fb55-419f-9df8-75c85a3eed4c)
