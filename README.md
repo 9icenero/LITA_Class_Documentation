@@ -15,6 +15,15 @@
 
 Data Analysis
 ```SQL
-SELECT * FROM EMPLOYEE
-WHERE FIRSTNAME IN ('SANNI', 'DEBORAH', 'MERCY')
+SELECT SUM(profit) AS TOTALPROFITS
+FROM [dbo].[International Breweries]
+WHERE years = '2017';
+
+SELECT MAX(profit) AS MaxProfit
+FROM [dbo].[International Breweries]
+WHERE Brands = 'Trophy'
+AND Years = '2018';
+
+Select min(Profit) as min_Profit  from [dbo].[International Breweries]
+Where Years = '2018';
 ```
