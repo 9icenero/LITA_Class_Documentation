@@ -1,7 +1,7 @@
 # LITA_Class-Documentation-
 
 ## This where I documented my first project while learning Data Analysis with the Incubator Hub.
-### Project Title: E commerce Sales Analysis
+### Project Title: International Brewies Yearly Sales Analysis
 
 ## Tools Used
 - Microsoft Excel [Download Here](https://www.Microsoft.com)
