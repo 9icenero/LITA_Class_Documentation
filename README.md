@@ -27,3 +27,6 @@ AND Years = '2018';
 Select min(Profit) as min_Profit  from [dbo].[International Breweries]
 Where Years = '2018';
 ```
+
+#Data Visualization
+https://github.com/9icenero/LITA_Class-Documentation-/blob/main/Yearly%20product%20sales.png
