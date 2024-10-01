@@ -29,4 +29,5 @@ Where Years = '2018';
 ```
 
 #Data Visualization
-https://github.com/9icenero/LITA_Class-Documentation-/blob/main/Yearly%20product%20sales.png
+
+![image](https://github.com/user-attachments/assets/51ac2700-21e7-4cc4-93a7-517c59539d18)
