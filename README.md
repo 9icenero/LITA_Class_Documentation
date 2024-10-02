@@ -1,6 +1,7 @@
 # LITA_Class-Documentation
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
+
 ### Project Title
 ---
 International Brewies Yearly Sales Analysis
@@ -67,14 +68,14 @@ Where Years = '2018';
 
 ### Data Visualization
 ---
-#### Sales Per Year
+#### *Sales Per Year*
 ![image](https://github.com/user-attachments/assets/51ac2700-21e7-4cc4-93a7-517c59539d18)
 
-#### Company Products sales in the year 2019
+#### _Company Products sales in the year 2019_
 
 ![image](https://github.com/user-attachments/assets/3990faa4-fb55-419f-9df8-75c85a3eed4c)
 
-### Conclusion/Recommendation
+### Conclusion
 ---
 At the end of this data analysis, it was determined that;
 - Hero has a product has the highest sales in the year 2019.
