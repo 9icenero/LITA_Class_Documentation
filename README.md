@@ -2,9 +2,9 @@
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
 
-### **Project Title**
+### Project Title
 ---
-International Brewies Yearly Sales Analysis
+**International Brewies Yearly Sales Analysis**
 
 ### Table Outline for the Portfolio
 ---
