@@ -1,11 +1,13 @@
 # LITA_Class-Documentation
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
+
 ## Table Outline for the Portfolio
 - Project Title
--  Project Overview
--  Data Sources
+- Project Overview
+- Data Sources
 - Tools Used
+- Data Cleaning and Preparations
 - Data Analysis
 - Data Visualization
 
@@ -26,9 +28,21 @@ The primary source of data used here is International Brewies sales document.CSV
   3. For Visualization.
      
 - SQL - Structured Query Language for Querying of Data
-
 - GitHub for Potfolio Building
 
+### Data Cleaning and Preparatuions
+In the initial phase of the data cleaning and preparations, we preform the following actions;
+1.  Data inspection and loading
+2.  Hanling missing variables
+3.  Data cleaning and formatting
+
+### Exploratory data Analysis
+This involved analysing the data to answer the following questions;
+1. What is the overall sales trend in different years?
+2. Which product is the best seller?
+3. What product has the least sales?
+4. Profit made in the year 2019 for different products.
+   
 ## Data Analysis
 ```SQL
 SELECT SUM(profit) AS TOTALPROFITS
@@ -48,6 +62,6 @@ Where Years = '2018';
 #### Sales Per Year
 ![image](https://github.com/user-attachments/assets/51ac2700-21e7-4cc4-93a7-517c59539d18)
 
-#### Company Products
+#### Company Products sales in the year 2019
 
 ![image](https://github.com/user-attachments/assets/3990faa4-fb55-419f-9df8-75c85a3eed4c)
