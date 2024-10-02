@@ -1,7 +1,17 @@
-# LITA_Class-Documentation-
+# LITA_Class-Documentation
+This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
-## This where I documented my first project while learning Data Analysis with the Incubator Hub.
-### Project Title: International Brewies Yearly Sales Analysis
+## Project Title
+International Brewies Yearly Sales Analysis
+
+## Project Overview
+This Data Analysis project is aim at generating the total sales performaces of different products in International Brewies Inc in diffect locations on a yearly basis. By analyzing the different parameters in the data received, we aim to seek the best performing product in different regions of the country and also the least performing product which will enable us to make insightfull decision when it comes to customer satisfaction.
+
+##Table Outline for the Portfolio
+Tools Used
+Data Analysis
+Data Visualization
+
 
 ## Tools Used
 - Microsoft Excel [Download Here](https://www.Microsoft.com)
