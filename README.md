@@ -78,4 +78,9 @@ Where Years = '2018';
 
 ### Conclusion/Recommendation
 ---
-At the end of this data analysis, it was determined that 
+At the end of this data analysis, it was determined that;
+- Hero has a product has the highest sales in the year 2019.
+- Grand malt has the least sales.
+
+### Recommendation
+More advert should be done for Grand malt inorder to boost sales. Also a feedback form should be given to customers to rate the products taste,price etc. This will help improve the products.
