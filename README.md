@@ -1,4 +1,5 @@
 # LITA_Class-Documentation
+---
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
 
@@ -39,7 +40,7 @@ The primary source of data used here is International Brewies sales document.CSV
 ----
 In the initial phase of the data cleaning and preparations, we preform the following actions;
 1.  Data inspection and loading
-2.  Hanling missing variables
+2.  Handling missing variables
 3.  Data cleaning and formatting
 
 ### Exploratory data Analysis
