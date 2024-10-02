@@ -2,7 +2,8 @@
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
 
-## Table Outline for the Portfolio
+### Table Outline for the Portfolio
+---
 - Project Title
 - Project Overview
 - Data Sources
@@ -13,37 +14,44 @@ This where I documented my first project while learning Data Analysis with the I
 
 
 ### Project Title
+---
 International Brewies Yearly Sales Analysis
 
 ### Project Overview
+---
 This Data Analysis project is aim at generating the total sales performaces of different products in International Brewies Inc in diffect locations on a yearly basis. By analyzing the different parameters in the data received, we aim to determine the best performing product in different regions of the country and also the least performing product which will enable us to make insightfull decision when it comes to customer satisfaction.
 
 ### Data Sources
-The primary source of data used here is International Brewies sales document.CSV.
+---
+The primary source of data used here is International Brewies sales document.CSV. This will be made available for view.
 
-## Tools Used
+### Tools Used
+---
 - Microsoft Excel [Download Here](http://mxj6.2.vu/2)
   1. For data cleaning
   2. For Analysis
   3. For Visualization.
      
 - SQL - Structured Query Language for Querying of Data
-- GitHub for Potfolio Building
+- GitHub for Portfolio Building
 
-### Data Cleaning and Preparatuions
+### Data Cleaning and Preparations
+----
 In the initial phase of the data cleaning and preparations, we preform the following actions;
 1.  Data inspection and loading
 2.  Hanling missing variables
 3.  Data cleaning and formatting
 
 ### Exploratory data Analysis
+----
 This involved analysing the data to answer the following questions;
 1. What is the overall sales trend in different years?
 2. Which product is the best seller?
 3. What product has the least sales?
 4. Profit made in the year 2019 for different products.
    
-## Data Analysis
+### Data Analysis
+---
 ```SQL
 SELECT SUM(profit) AS TOTALPROFITS
 FROM [dbo].[International Breweries]
@@ -59,9 +67,14 @@ Where Years = '2018';
 ```
 
 ### Data Visualization
+---
 #### Sales Per Year
 ![image](https://github.com/user-attachments/assets/51ac2700-21e7-4cc4-93a7-517c59539d18)
 
 #### Company Products sales in the year 2019
 
 ![image](https://github.com/user-attachments/assets/3990faa4-fb55-419f-9df8-75c85a3eed4c)
+
+### Conclusion/Recommendation
+---
+At the end of this data analysis, it was determined that 
