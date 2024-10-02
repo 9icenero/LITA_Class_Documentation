@@ -7,7 +7,7 @@ International Brewies Yearly Sales Analysis
 
 ### Table Outline for the Portfolio
 ---
-- [Project Overview].(#project-overview)
+- [Project Overview]_(#project-overview)
 - Data Sources
 - Tools Used
 - Data Cleaning and Preparations
