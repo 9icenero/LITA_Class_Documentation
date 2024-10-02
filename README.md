@@ -1,22 +1,18 @@
 # LITA_Class-Documentation
----
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
+### Project Title
+---
+International Brewies Yearly Sales Analysis
 
 ### Table Outline for the Portfolio
 ---
-- Project Title
-- Project Overview
+- [Project Overview](#project overview)
 - Data Sources
 - Tools Used
 - Data Cleaning and Preparations
 - Data Analysis
 - Data Visualization
-
-
-### Project Title
----
-International Brewies Yearly Sales Analysis
 
 ### Project Overview
 ---
