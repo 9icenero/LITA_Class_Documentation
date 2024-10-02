@@ -6,6 +6,7 @@ This where I documented my first project while learning Data Analysis with the I
 ---
 **International Brewies Yearly Sales Analysis**
 
+
 ### Table Outline for the Portfolio
 ---
 - [Project Overview](#project-overview)
@@ -19,7 +20,7 @@ This where I documented my first project while learning Data Analysis with the I
 
 ### Project Overview
 ---
-This Data Analysis project is aim at generating the total sales performaces of different products in International Brewies Inc in diffect locations on a yearly basis. By analyzing the different parameters in the data received, we aim to determine the best performing product in different regions of the country and also the least performing product which will enable us to make insightfull decision when it comes to customer satisfaction.
+This data analysis project aims to generate a comprehensive overview of the total sales performance of various products at International Breweries Inc. across different locations on a yearly basis. By analyzing the various parameters in the collected data, we seek to identify the best-performing products in different regions of the country as well as the least-performing ones. This analysis will enable us to make informed decisions to enhance customer satisfaction.
 
 ### Data Sources
 ---
@@ -78,8 +79,8 @@ Where Years = '2018';
 ### Conclusion
 ---
 At the end of this data analysis, it was determined that;
-- Hero has a product has the highest sales in the year 2019.
-- Grand malt has the least sales.
+- Hero was the top-selling product in 2019.
+- Grand Malt recorded the lowest sales.
 
 ### Recommendation
-More advert should be done for Grand malt inorder to boost sales. Also a feedback form should be given to customers to rate the products taste,price etc. This will help improve the products.
+More advertising should be conducted for Grand Malt to boost sales. Additionally, a feedback form should be provided to customers to rate the product's taste, price, and other factors. This will help in improving the product.
