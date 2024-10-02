@@ -1,8 +1,8 @@
-# LITA_Class-Documentation
+# LITA_Class_Documentation
 This where I documented my first project while learning Data Analysis with the Incubator Hub.
 
 
-### Project Title
+### **Project Title**
 ---
 International Brewies Yearly Sales Analysis
 
